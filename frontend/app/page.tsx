@@ -49,7 +49,7 @@ export default function Home() {
     {
       title: "Hi, I'm MindEase 👋",
       description:
-        "Your AI companion for emotional well-being. I'm here to provide a safe, judgment-free space for you to express yourself.",
+        "Your AI companion for emotional well-being. I'm here to provide a safe, judgment-free space for you to express yourself!",
       icon: Waves,
     },
     {
